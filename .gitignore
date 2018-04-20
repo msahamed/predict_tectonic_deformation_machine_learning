@@ -19,6 +19,7 @@ __pycache__
 *.egg-info
 *~
 *.bak
+*.png
 .ipynb_checkpoints
 .tox
 .DS_Store
